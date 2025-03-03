@@ -1,0 +1,8 @@
+node_modules/
+"node_modules/" 
+"node_modules/" 
+
+node_modules
+.env
+banco_de_dados.sqlite
+uploads
