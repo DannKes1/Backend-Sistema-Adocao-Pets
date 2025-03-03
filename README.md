@@ -30,8 +30,8 @@ Este é um projeto acadêmico simples que oferece um CRUD de animais para adoç�
 Clone ou baixe este repositório.  
 Na raiz do projeto, abra um terminal e rode:
 
-```bash
 npm install
+
 
 ## 3. Configuração de Variáveis de Ambiente
 Crie um arquivo .env na raiz do projeto (ou use outro método de configuração de variáveis) com as seguintes variáveis:
