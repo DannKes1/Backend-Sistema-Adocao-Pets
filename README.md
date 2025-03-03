@@ -35,10 +35,10 @@ npm install
 
 ## 3. Configuração de Variáveis de Ambiente
 Crie um arquivo .env na raiz do projeto (ou use outro método de configuração de variáveis) com as seguintes variáveis:
-# Chave secreta utilizada para assinar tokens JWT
+### Chave secreta utilizada para assinar tokens JWT
 SECRET_KEY=SUA_CHAVE_SECRETA
 
-# Credenciais para envio de email (Nodemailer, Gmail, etc.)
+### Credenciais para envio de email (Nodemailer, Gmail, etc.)
 EMAIL_USER=seu.email@gmail.com
 EMAIL_PASS=sua_senha_ou_app_password
 
